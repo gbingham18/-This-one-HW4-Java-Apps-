@@ -55,6 +55,8 @@ public class YahtzeeActivity extends AppCompatActivity {
                    int x = rand.nextInt(6) + 1;
 
                    spaces.get(i).
+                   //Trying to add random image in the arraylist "images" to spaces
+                   //as if spaces were like JLabels
 
                }
             }
